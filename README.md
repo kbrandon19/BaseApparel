@@ -38,8 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kbrandon19/BaseApparel.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://kbrandon19.github.io/BaseApparel/]
 ## My process
 
 ### Built with
